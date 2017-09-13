@@ -68,7 +68,7 @@ nav {
   padding-top: 5%;
   padding-bottom: 5%;
   position: relative;
-  background-color: #DD5A2B; }
+  background-color: teal; }
   .section__hero h3 {
     color: white; }
   .section__hero h5 {
@@ -79,7 +79,7 @@ nav {
     font-weight: bold;
     font-size: 4.2rem;
     line-height: 1.10;
-    color: #393939; }
+    color: white; }
   .section__hero .btn {
     width: 20rem;
     margin-top: 1.5rem; }
@@ -92,6 +92,10 @@ nav {
     background-position: center center; }
   .section__hero .btn__main-cta {
     height: 3rem; }
+
+  boton{
+    background-color: #BF360C;
+  }
 
 @media (max-width: 993px) {
   .section__hero {
